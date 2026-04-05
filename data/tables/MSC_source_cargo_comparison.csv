@@ -1,0 +1,5 @@
+"Source","Enriched_Proteins","Enriched_miRNAs","Therapeutic_Strength"
+"Bone_Marrow","BMP2, BMP7, RUNX2, VEGFA, ANG1","hsa-miR-21-5p, hsa-miR-29a-3p, hsa-miR-199a-3p","骨和软骨修复"
+"Adipose","HGF, IGF1, FGF2, IL10, TSG6","hsa-miR-146a-5p, hsa-miR-127-5p, hsa-miR-199a-3p","抗炎和免疫调节"
+"Synovial","TGFB1, TGFB3, SOX9, COL2A1, PRG4","hsa-miR-140-5p, hsa-miR-140-3p, hsa-miR-320a","软骨分化和保护（与半月板同源性最高）"
+"Umbilical_Cord","VEGFA, PDGFB, WNT3A, SHH, FGF2","hsa-miR-21-5p, hsa-miR-100-5p, hsa-miR-let-7a-5p","增殖和血管生成"
